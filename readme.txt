@@ -20,7 +20,7 @@ Advanced video analytics with in-house A/B testing
 
 Terms of Service: https://quinnhq.notion.site/Quinn-Shoppable-videos-Terms-conditions-39468525b82a44b7bc1f74a0aa18cdd2
 
-Source code - https://github.com/Quinn-Care-Private-Limited/wordpress-plugin
+Source code - https://github.com/Quinn-Care-Private-Limited/plugin
 
 == Installation ==
 
